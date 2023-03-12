@@ -6,3 +6,5 @@ FILENAME	 DESCRIPTION
 2-assembler:	Generates the assembly code of a C code and saves  output in file called c
 
 3-name:	        Compiles a C file and creates an executable named cisfun and saved in CFILE
+
+4-puts.c	Prints out "Programming is like building a multilingual puzzle" with function puts
