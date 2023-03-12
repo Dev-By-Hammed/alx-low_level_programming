@@ -8,3 +8,5 @@ FILENAME	 DESCRIPTION
 3-name:	        Compiles a C file and creates an executable named cisfun and saved in CFILE
 
 4-puts.c	Prints out "Programming is like building a multilingual puzzle" with function puts
+
+5-printf.c	Prints out "with proper grammar, but the outcome is a piece of art" with function printf
