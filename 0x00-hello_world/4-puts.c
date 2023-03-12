@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<stdout>
+#include<stdout.h>
 /**
 *main - entry-point
 *return: always zer (0) (success)
