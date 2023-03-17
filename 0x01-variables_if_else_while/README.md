@@ -11,3 +11,5 @@ Filename                 	Description
 4-print_alphabet.c	        it Print out  the alphabets in lowercase, except q and e letters
 
 5-print_numbers.c	        it Print out  single digit numbers of base 10 starting from 0 to 9
+
+6-print_numberz.c	        it Print out  all single digit numbers of base 10  from 0, without using char variables
