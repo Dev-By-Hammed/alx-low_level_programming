@@ -9,3 +9,5 @@ Filename                 	Description
 3-print_alphabets.c	        it Print out  the alphabets in lowercase, and  in uppercase respectively or as the case may be
 
 4-print_alphabet.c	        it Print out  the alphabets in lowercase, except q and e letters
+
+5-print_numbers.c	        it Print out  single digit numbers of base 10 starting from 0 to 9
