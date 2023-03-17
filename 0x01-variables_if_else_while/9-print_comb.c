@@ -2,7 +2,8 @@
 
 /**
  * main - it  Print out  numbers from 0 to 9, 
- *each numbers are seperated by comma and followed by  with spaces.
+ *each numbers are seperated by comma and followed 
+ *by  with spaces.
  *
  * Return: Always 0 (Success)
  */
