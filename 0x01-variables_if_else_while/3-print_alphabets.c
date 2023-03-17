@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 /**
  * main - it Print out  the alphabets in lowwer and upper case respectively or as the case may be
