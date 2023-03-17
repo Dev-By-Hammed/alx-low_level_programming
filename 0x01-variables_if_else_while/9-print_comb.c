@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - it  Print out  numbers from 0 to 9, 
- *each numbers are seperated by comma and followed by  with spaces.
+ * main - it  Print out numbers between 0 to 9 seperated  with commas
+ *and seperated by spaces
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
