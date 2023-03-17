@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - it Print out  numbers between 0 to 9 and letters between a to f in lower case.
+ * main - it  Print out  numbers between 0 to 9 and letters between a to f in lowercase.
  *
  * Return: Always 0 (Success)
  */
