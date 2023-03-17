@@ -13,3 +13,5 @@ Filename                 	Description
 5-print_numbers.c	        it Print out  single digit numbers of base 10 starting from 0 to 9
 
 6-print_numberz.c	        it Print out  all single digit numbers of base 10  from 0, without using char variables
+
+7-print_tebahpla.c	        it Print out  lowercase alphabets in reversed form
