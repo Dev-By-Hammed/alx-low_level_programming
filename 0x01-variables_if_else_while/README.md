@@ -5,3 +5,5 @@ Filename                 	Description
 1-last_digit.c:			it Print the last digit of a randomly generated number
 
 2-print_alphabet.c	        it Print out  the alphabets in lowercase
+
+3-print_alphabets.c	        it Print out  the alphabets in lowercase, and  in uppercase respectively or as the case may be
