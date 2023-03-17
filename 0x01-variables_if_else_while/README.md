@@ -17,3 +17,5 @@ Filename                 	Description
 7-print_tebahpla.c	        it Print out  lowercase alphabets in reversed form
 
 8-print_base16.c	        it Print out all the numbers of base 16 and letters from a to f in lowercase
+
+9-print_comb.c	                it Print out  all possible combinations of single-digit numbers. each numbers are seperated by comma and followed by space 
