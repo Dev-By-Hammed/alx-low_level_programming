@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 /**
  * main - it  Print out  numbers from 0 to 9, each numbers are 
