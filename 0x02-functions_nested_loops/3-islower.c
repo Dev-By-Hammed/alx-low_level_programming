@@ -1,4 +1,4 @@
-#include "getchar.h"
+#include "main.h"
 
 /**
  * _islower -  it Shows 1 if the input is a
