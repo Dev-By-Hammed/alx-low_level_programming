@@ -1,7 +1,6 @@
 #include "main.h"
-
 /**
- * main - Print out  _putchar as a message.
+ * main - Print out _putchar as a message.
  *
  * Return: Always 0 (Success)
  */
@@ -14,8 +13,7 @@ int main(void)
 	for (count = 0; count < sz; count++)
 	{
 		_putchar(str[count]);
-	
 	}
-		_putchar('\n');
-		return (0);
+	_putchar('\n');
+	return (0);
 }
