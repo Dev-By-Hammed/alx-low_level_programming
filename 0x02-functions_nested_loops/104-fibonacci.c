@@ -38,8 +38,8 @@ int main(void)
 			printf(", %ld", fn);
 			printf("%ld", fn2 % 10000000000);
 			n1 = n2;
-			n11 = n22;
-			n2 = fn22;
+			n11 = n2;
+			n2 = n22;
 			n2 = fn;
 			n22 = (fn2 % 10000000000);
 
