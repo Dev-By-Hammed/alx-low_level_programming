@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- *_isupper - checks if a parameter is uppercase character.
- *@c: input characters.
- *Return: 1 if it's an uppercase character, and 0 in different case.
+ *_isudigit - check for a number between 0 and 9.
+ *@c: input number.
+ *Return: 1 if it's a number between 0 and 9, and 0 in different case.
  */
-int _isupper(int c)
+int _isdigit(int c)
 {
-	if (c >= 65 && c <= 90)
+	if (c >= 48 && c <= 57)
 	{
 		return (1);
 
