@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_most_numbers - print out an integer.
- * @n: input an integer.
- * Return: nothing.
+ *print_number - print out an integer.
+ *@n: input an integer.
+ *Return: nothing.
  */
 
-void print_most_numbers(void)
+void print_number(int n)
 {
 	unsigned int m, d, count;
 
@@ -26,11 +26,10 @@ void print_most_numbers(void)
 	{
 		d /= 10;
 		count *= 10;
-
 	}
+
 	for (; count >= 1; count /= 10)
 	{
 		_putchar(((m / count) % 10) + 48);
 	}
-
 }
