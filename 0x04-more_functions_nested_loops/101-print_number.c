@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_number - print out an integer.
+ * print_most_numbers - print out an integer.
  * @n: input an integer.
  * Return: nothing.
  */
 
-void print_number(int n)
+void print_most_numbers(void)
 {
 	unsigned int m, d, count;
 
