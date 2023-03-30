@@ -1,6 +1,13 @@
 #include <stdio.h>
-/*
- *main - add new line
+/**
+ * main - Entry point.
+ * write your line of code here...
+ * Remember:
+ * _ you are not allowed to use a
+ * _you are not allowed to modify p.
+ * - only one statement.
+ *you are not allowed to code anything than this line of code.
+ *Return: 0 always.
  */
 int main(void)
 {
