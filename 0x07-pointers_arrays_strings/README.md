@@ -16,6 +16,4 @@ File Name	                Description
 
 8-print_diagsums.c:	it Print out the sum of the two diagonals of a square matrix of integers
 
-9-set_string.c:	       it  Set the value of a pointer to a character
-
-101-crackme_password.c: it Contain the password for the crackme2 executable file
+100-set_string.c:	it  Set the value of a pointer to a character
